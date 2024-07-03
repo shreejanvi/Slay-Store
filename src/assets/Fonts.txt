@@ -1,0 +1,1 @@
+Fonts used in this design: \r\n\r\nThird party Fonts: \r\n\r\nFont: Rajdhani \r\nAuthor: Indian Type Foundry \r\nUrl: https://fonts.google.com/specimen/Rajdhani \r\n\r\nFont: Abril Fatface \r\nAuthor: TypeTogether \r\nUrl: https://fonts.google.com/specimen/Abril+Fatface \r\n\r\n
